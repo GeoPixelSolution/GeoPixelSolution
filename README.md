@@ -13,9 +13,9 @@ I am a **PhD Junior Research Fellow (JRF) at IIT (ISM) Dhanbad**. My research fo
 - 🌱 AI/ML in Agriculture & Climate Change  
 
 ## 🎓 Academic Achievements
-- 🏆 **MTech in Geoinformatics** (Gold Medalist)  
+- 🥇 **MTech in Geoinformatics** (Gold Medalist)  
 - 🥇 **MSc Geography (Gold Medalist)**
-- 🎖 **Geography Honours (1st Rank in College)**
+- 🥇 **Geography Honours (1st Rank in College)**
 - 🏅 **GATE 2024 Qualified (Geomatics Engineering)**  
 
 ## 💡 Founder of GeoPixel Solution  
